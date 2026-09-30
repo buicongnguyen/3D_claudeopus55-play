@@ -526,10 +526,10 @@
   },
   "clothGain": {
    "afternoon": 1.131,
-   "golden": 1.246,
+   "golden": 1.252,
    "sunset": 1.284,
    "dusk": 1.285,
-   "night": 1.304
+   "night": 1.291
   },
   "fruit": "fruit-wide.webp",
   "friends": {
