@@ -1,21 +1,21 @@
 {
   "name": "The Lantern Picnic",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "commit": null,
   "chunks": [
-    "lantern-main-FH5AS4BV.js",
+    "lantern-main-QW35JG6T.js",
     "main-X3ONGJ4B.js",
     "picnic-main-J4TXO6Z4.js",
-    "shared-3Q3OS5GY.js",
     "shared-BB3BPSR7.js",
     "shared-BHTZQNEA.js",
     "shared-CAKEFKGY.js",
     "shared-G3ZV2ECJ.js",
     "shared-GYWXY4WW.js",
+    "shared-JWLMLGQK.js",
     "shared-KAGWX5KB.js",
-    "shared-MICYHL3L.js",
     "shared-NVB2I6YQ.js",
-    "shared-PVOHURPG.js",
+    "shared-R65H6G3P.js",
+    "shared-UN3NCPOT.js",
     "shared-VS7ETNLA.js",
     "shared-YZAFJJVC.js"
   ]
